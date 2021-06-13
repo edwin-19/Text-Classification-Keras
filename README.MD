@@ -5,4 +5,4 @@ The purpose of this repo was to test out basic layers such as lstm and text vect
 - [x] text vectorization layer
 - [x] lstm model
 - [ ] Check overfit reason
-- [ ] Write a simple tensorflow dense layer using simple classifier
+- [x] Write a simple tensorflow dense layer using simple classifier
